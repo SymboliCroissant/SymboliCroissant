@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianswimoore
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning Java in University and python and C++ on my own
+- 🌱 I’m currently learning C# in University and C++ on my own
 - 💞️ I’m looking to collaborate on interesting new projects to learn better skills
 - 📫 Reach me at Swyma#7764 on discord
 
